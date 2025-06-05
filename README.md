@@ -19,7 +19,9 @@ You can swap your face from a webcam or the face in the video using trained face
 Here is a list of available ready-to-use public face models.
 
 These persons do not exists. Similarities with real people are accidental. Except Keanu Reeves. He exists, and he's breathtaking!
-</td></tr>
+</td></tr>![IMG_2164](https://github.com/user-attachments/assets/55136b4a-f1e2-4371-9b3f-116717084400)
+![IMG_1407](https://github.com/user-attachments/assets/4e615ddc-a354-4769-b37c-c123ee124661)
+
 
 <tr><td colspan=2 align="center">
 
